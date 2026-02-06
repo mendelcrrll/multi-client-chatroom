@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "alice",
+      "password": "password123",
+      "status": "Offline",
+      "active_session_start": null,
+      "last_active": "2026-01-01T18:22:10Z"
+    },
+    {
+      "id": 2,
+      "username": "bob",
+      "password": "hunter2",
+      "status": "Away",
+      "active_session_start": "2026-01-03T10:05:42Z",
+      "last_active": "2026-01-03T10:17:03Z"
+    },
+    {
+      "id": 3,
+      "username": "charlie",
+      "password": "charlie_pw",
+      "status": "Online",
+      "active_session_start": "2026-01-03T11:01:15Z",
+      "last_active": "2026-01-03T11:19:54Z"
+    },
+    {
+      "id": 4,
+      "username": "dana",
+      "password": "letmein",
+      "status": "Offline",
+      "active_session_start": null,
+      "last_active": null
+    },
+    {
+      "id": 5,
+      "username": "eve",
+      "password": "eve_secret",
+      "status": "Online",
+      "active_session_start": "2026-01-03T11:12:00Z",
+      "last_active": "2026-01-03T11:20:31Z"
+    }
+  ]
+}
